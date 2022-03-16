@@ -2,7 +2,7 @@ package db
 
 import (
 	"fmt"
-	"github.com/go-xorm/core"
+	"xorm.io/core"
 	"github.com/go-xorm/xorm"
 	"github.com/lunny/log"
 	"github.com/poemp/goway/inter"
