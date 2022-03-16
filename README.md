@@ -8,7 +8,7 @@ flyway to go
 使用 go 命令， 下载当前的源码
 
 `````
-go get github.com/poemp/goway
+go get github.com/Mr-Tan-SK/goway
 `````
 这样就好了， 可以使用了
 
